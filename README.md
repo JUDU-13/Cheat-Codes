@@ -21,7 +21,7 @@ Dive into the cheatsheets for these exciting topics:
 
 These cheatsheets are your trusty reference guides and study buddies. You can download them as PDFs or view them online, whatever suits your style. Best part? You can contribute too! Feel free to add new cheatsheets or enhance existing ones. Let's make learning together even more fun! 🙌
 
-![Learning Gif](https://giphy.com/embed/4nRiHFFTzmJZC)
+![Learning Gif](https://media.tenor.com/EAEWFx7H2DAAAAAC/kevin-hart-learn.gif)
 
 ## Get in Touch 📧
 

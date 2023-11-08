@@ -1,4 +1,3 @@
-Certainly! Here's a friendly and easy-to-understand README file for GitHub with added emojis:
 
 ```markdown
 # Python Basics: Your Journey Begins 🚀🐍
